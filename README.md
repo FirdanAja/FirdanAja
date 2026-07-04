@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Firdan Fauzan<br><br>Fresh Graduate in Informatics Engineering from Universitas Kuningan with a passion for building modern web and mobile applications. I specialize in **Frontend Development** and have experience developing responsive websites and cross-platform mobile applications using modern technologies.<br><br>I enjoy transforming ideas into intuitive, user-friendly digital products while continuously learning new technologies and improving my software development skills.
 
 ## 🌐 Socials:
