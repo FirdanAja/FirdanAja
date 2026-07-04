@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Firdan Fauzan<br><br>Fresh Graduate in Informatics Engineering from Universitas Kuningan with a passion for building modern web and mobile applications. I specialize in **Frontend Development** and have experience developing responsive websites and cross-platform mobile applications using modern technologies.<br>
+# 👋 Hi, I'm Firdan Fauzan<br><br>Software Engineer.<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/frdnfzn_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/firdan-fauzan/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Firdan Fauzan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:firdanfauzan5@gmail.com) 
 
